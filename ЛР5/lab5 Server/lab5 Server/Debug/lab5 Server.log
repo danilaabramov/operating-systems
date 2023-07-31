@@ -1,0 +1,4 @@
+﻿  lab5 Server.cpp
+D:\repos\lab5 Server\lab5 Server\lab5 Server.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\repos\lab5 Server\lab5 Server\lab5 Server.cpp(141,47): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab5 Server.vcxproj -> D:\repos\lab5 Server\Debug\lab5 Server.exe
